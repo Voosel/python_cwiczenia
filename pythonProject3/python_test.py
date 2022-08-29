@@ -1,0 +1,2 @@
+print ("Witam")
+prompt ()
